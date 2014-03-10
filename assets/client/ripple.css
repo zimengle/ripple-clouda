@@ -169,7 +169,7 @@ section, header, footer, aside, nav { display: block; }
     -webkit-border-radius: 5px;
     border-radius: 5px;
     position: relative;
-    overflow: hidden;
+    overflow: auto !important;
 }
 
 .device-wrapper {
